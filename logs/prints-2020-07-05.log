@@ -1,0 +1,24 @@
+21:21:53.125 [main] INFO  Project.E2EProject.NavigationBarPresence - Driver initialized.
+21:21:56.396 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigated to URL.
+21:21:56.461 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigation bar is present.
+21:22:00.280 [main] INFO  Project.E2EProject.ValidateSectionTitle - Driver initialized.
+21:22:03.620 [main] INFO  Project.E2EProject.ValidateSectionTitle - Navigated to URL.
+21:39:16.309 [main] INFO  Project.E2EProject.HomePage - Driver initialized.
+21:39:19.758 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:39:21.573 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:39:21.573 [main] INFO  Project.E2EProject.HomePage - Non-Restricted User
+21:39:22.710 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:39:23.763 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:39:23.764 [main] INFO  Project.E2EProject.HomePage - Restricted User
+21:39:28.069 [main] INFO  Project.E2EProject.NavigationBarPresence - Driver initialized.
+21:39:30.725 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigated to URL.
+21:39:30.798 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigation bar is present.
+21:39:34.654 [main] INFO  Project.E2EProject.ValidateSectionTitle - Driver initialized.
+21:39:38.225 [main] INFO  Project.E2EProject.ValidateSectionTitle - Navigated to URL.
+21:41:38.515 [main] INFO  Project.E2EProject.HomePage - Driver initialized.
+21:41:42.250 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:41:43.962 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:41:43.962 [main] INFO  Project.E2EProject.HomePage - Non-Restricted User
+21:41:44.992 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:41:45.849 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:41:45.849 [main] INFO  Project.E2EProject.HomePage - Restricted User

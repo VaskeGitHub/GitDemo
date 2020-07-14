@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+<Properties>
+	<Property name="basePath">./logs</Property>
+</Properties>
+  <Appenders>
+      <RollingFile name="File" fileName="${basePath}/prints.log" filePattern="${basePath}/prints-%d{yyyy-MM-dd}.log">
+     <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      <SizeBasedTriggeringPolicy size="2048" />
+          </RollingFile>
+    <Console name="Console" target="SYSTEM_OUT"> <!-- In Appenders you can choose to send the log to console or to file  -->
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/> <!-- Setting up the format of the output -->
+    </Console>
+  </Appenders>
+  <Loggers>
+   <Logger name="Project.E2EProject.HomePage" level="trace" additivity="false"> <!-- Defining whether there will be only errors displayed or everything; Use "trace" for all; additivity attribute is for avoiding duplicates if you provide "error" here and "trace in root or vice versa" -->
+      <AppenderRef ref="File"/> <!-- Printed to file instead of console -->
+    </Logger>
+    <Logger name="Project.E2EProject.NavigationBarPresence" level="trace" additivity="false"> <!-- For package Beta, class Demo1 every log message is displayed; Can be skipped because root would take care of it -->
+      <AppenderRef ref="File"/>
+    </Logger>
+    <Logger name="Project.E2EProject.ValidateSectionTitle" level="trace" additivity="false"> <!-- For package Beta, class Demo1 every log message is displayed; Can be skipped because root would take care of it -->
+      <AppenderRef ref="File"/>
+    </Logger>
+     <Root level="off"> <!-- Manages all the logs that are not previously defined explicitly; Root is project-based -->
+      <AppenderRef ref="File"/> 
+    </Root>
+  </Loggers>
+</Configuration>

@@ -1,0 +1,24 @@
+21:08:47.329 [main] INFO  Project.E2EProject.NavigationBarPresence - Driver initialized.
+21:08:50.558 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigated to URL.
+21:08:50.656 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigation bar is present.
+21:08:54.580 [main] INFO  Project.E2EProject.ValidateSectionTitle - Driver initialized.
+21:08:57.198 [main] INFO  Project.E2EProject.ValidateSectionTitle - Navigated to URL.
+21:11:46.273 [main] INFO  Project.E2EProject.NavigationBarPresence - Driver initialized.
+21:11:49.791 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigated to URL.
+21:11:49.871 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigation bar is present.
+21:11:56.308 [main] INFO  Project.E2EProject.ValidateSectionTitle - Driver initialized.
+21:11:59.690 [main] INFO  Project.E2EProject.ValidateSectionTitle - Navigated to URL.
+21:46:32.712 [main] INFO  Project.E2EProject.HomePage - Driver initialized.
+21:46:38.445 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:46:40.487 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:46:40.487 [main] INFO  Project.E2EProject.HomePage - Non-Restricted User
+21:46:41.580 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:46:42.340 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:46:42.340 [main] INFO  Project.E2EProject.HomePage - Restricted User
+21:46:46.366 [main] INFO  Project.E2EProject.NavigationBarPresence - Driver initialized.
+21:46:49.331 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigated to URL.
+21:46:49.414 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigation bar is present.
+21:46:52.950 [main] INFO  Project.E2EProject.ValidateSectionTitle - Driver initialized.
+21:46:56.821 [main] INFO  Project.E2EProject.ValidateSectionTitle - Navigated to URL.
+21:50:58.144 [main] INFO  Project.E2EProject.HomePage - Driver initialized.
+21:51:02.197 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.

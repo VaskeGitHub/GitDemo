@@ -1,0 +1,22 @@
+21:51:04.194 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:51:04.208 [main] INFO  Project.E2EProject.HomePage - Non-Restricted User
+21:51:05.518 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:51:06.490 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:51:06.491 [main] INFO  Project.E2EProject.HomePage - Restricted User
+21:51:11.415 [main] INFO  Project.E2EProject.NavigationBarPresence - Driver initialized.
+21:51:15.260 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigated to URL.
+21:51:15.387 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigation bar is present.
+21:51:19.760 [main] INFO  Project.E2EProject.ValidateSectionTitle - Driver initialized.
+21:51:22.966 [main] INFO  Project.E2EProject.ValidateSectionTitle - Navigated to URL.
+21:52:08.330 [main] INFO  Project.E2EProject.HomePage - Driver initialized.
+21:52:11.659 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:52:13.634 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:52:13.634 [main] INFO  Project.E2EProject.HomePage - Non-Restricted User
+21:52:14.795 [main] INFO  Project.E2EProject.HomePage - Navigated to URL.
+21:52:15.734 [main] INFO  Project.E2EProject.HomePage - Email and password entered and login button clicked.
+21:52:15.734 [main] INFO  Project.E2EProject.HomePage - Restricted User
+21:52:20.054 [main] INFO  Project.E2EProject.NavigationBarPresence - Driver initialized.
+21:52:22.976 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigated to URL.
+21:52:23.066 [main] INFO  Project.E2EProject.NavigationBarPresence - Navigation bar is present.
+21:52:27.717 [main] INFO  Project.E2EProject.ValidateSectionTitle - Driver initialized.
+21:52:31.142 [main] INFO  Project.E2EProject.ValidateSectionTitle - Navigated to URL.
